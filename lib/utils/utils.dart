@@ -350,7 +350,7 @@ class Utils {
               const SizedBox(height: 6),
               InfoLabel(
                   label: Language.developedBy.capitalizeByWord(),
-                  text: "QuomodoSoft"),
+                  text: "Adsom Technologies"),
             ],
           ),
           actions: [

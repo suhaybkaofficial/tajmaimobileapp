@@ -1,7 +1,7 @@
 class KStrings {
-  static const String appName = "ShopO";
+  static const String appName = "Tajmai";
   static const String appVersion = "3.7.0";
-  static const String splashTitle = "Number one Ecommerce shop";
+  static const String splashTitle = "Number one e-Commerce platform";
 
   static const String cachedUserResponseKey = "cachhUserResponse";
   static const String cachOnboardingKey = "cachOnboardingKey";
