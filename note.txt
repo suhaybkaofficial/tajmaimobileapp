@@ -1,0 +1,20 @@
+/// feature done 
+1. splash screen
+2. onboarding
+
+/// continue
+auth login
+
+
+/// feature remaining
+1. auth
+2. home
+3. cart
+4. category
+5. main
+6. order
+7. place order
+8. product details
+9. profile
+10. search
+11. setting
